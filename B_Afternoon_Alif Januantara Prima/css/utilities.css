@@ -1,0 +1,25 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.link {
+  color: aquamarine;
+  text-decoration: underline;
+}
+
+.link:hover {
+  color: aqua;
+}
+
+.text-slate {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.mx-auto {
+  margin: 0 auto;
+}
+
+.mt-auto {
+    margin-top: auto;
+}
