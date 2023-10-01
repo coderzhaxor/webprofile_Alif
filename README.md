@@ -4,7 +4,7 @@
 
 ---
 
-![Portfolio Screenshot](preview.png)
+![Portfolio Screenshot](B_Afternoon_Alif%20Januantara%20Prima/preview.png)
 
 # Portfolio 🚀
 
