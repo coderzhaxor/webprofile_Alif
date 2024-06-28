@@ -209,7 +209,7 @@ body {
     justify-content: space-between;
 }
 
-#project-nav h1 {
+#projects-nav h1 {
     font-size: 2.5rem !important;
     text-decoration: underline wavy 1.5px hsl(0, 0%, 70%) !important;
     text-underline-offset: .3rem !important;
