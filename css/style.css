@@ -206,6 +206,7 @@ body {
     display: flex;
     align-items: center;
     margin: 8rem auto 5rem;
+    justify-content: space-between;
 }
 
 #projects-nav a {
